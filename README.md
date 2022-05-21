@@ -2,7 +2,7 @@
 
 Olá meu nome é Rafael Eduardo, atualmente sou desenvolvedor pleno em Java.  
 Atualmente programo em Java, Kotlin e Python.  
-Além de programar tenho hooby de caçar bugs em plataformas de bug bounty  
+Além de programar tenho hobby de caçar bugs em plataformas de bug bounty  
 
 <div>
 <a href="https://github.com/reduPKR">
