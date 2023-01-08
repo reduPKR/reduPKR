@@ -8,10 +8,7 @@ Olá meu nome é Rafael Eduardo, ex-desenvolvedor back-end, atualmente trabalho 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reduPKR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>  
     
- 
-### 🛠 &nbsp;Tech Stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-
 ### Snake
 ![Snake animation](https://github.com/reduPKR/reduPKR/blob/output/github-contribution-grid-snake.svg)
+
 
