@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Olá meu nome é Rafael Eduardo, atualmente sou desenvolvedor pleno em Java.  
-Atualmente programo em Java, Kotlin e Python.  
-Além de programar tenho hobby de caçar bugs em plataformas de bug bounty  
+Olá meu nome é Rafael Eduardo, ex-desenvolvedor back-end, atualmente trabalho na area de cybersecurity na parte de threat intelligence e tambem com bug bounty. 
 
 <div>
 <a href="https://github.com/reduPKR">
@@ -13,18 +11,6 @@ Além de programar tenho hobby de caçar bugs em plataformas de bug bounty
  
 ### 🛠 &nbsp;Tech Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>
 
 ### Snake
 ![Snake animation](https://github.com/reduPKR/reduPKR/blob/output/github-contribution-grid-snake.svg)
