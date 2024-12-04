@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá meu nome é Rafael Eduardo, ex-desenvolvedor back-end, atualmente trabalho na area de cybersecurity na parte de threat intelligence e tambem com bug bounty. 
+Olá, meu nome é Rafael Eduardo, sou desenvolvedor back-end com experiência em cybersecurity. Sou entusiasta de segurança da informação e sempre busco aprimorar minhas habilidades para entregar soluções seguras e eficientes.
 
 <div>
 <a href="https://github.com/reduPKR">
